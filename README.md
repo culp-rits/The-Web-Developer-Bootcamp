@@ -1,2 +1,2 @@
 # The-Web-Developer-Bootcamp
-Quiz and Coding Exercise solutions.
+Coding Exercise solutions.

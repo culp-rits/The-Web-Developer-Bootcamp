@@ -1,5 +1,3 @@
-function validUserNames(usernames) {
-    const validUserNames = usernames.filter(u => u.length < 10);
-    console.log(validUserNames);
-    return validUserNames;
+const greet = (x) => {
+    return ("Hey "+x+"!")
 }
